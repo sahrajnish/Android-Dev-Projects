@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Android Dev Projects</string>
+    <string name="title_activity_second">secondActivity</string>
+    <string name="heading_text">Jetpack Compose tutorial</string>
+    <string name="para_1">Jetpack Compose is a modern toolkit for building native Android UI.
+        Compose simplifies and accelerates UI development on Android with less code,
+        powerful tools, and intuitive Kotlin APIs.</string>
+    <string name="para_2">
+        In this tutorial, you build a simple UI component with declarative functions.
+        You call Compose functions to say what elements you want and the Compose compiler
+        does the rest. Compose is built around Composable functions.
+        These functions let you define your app\'s UI programmatically.
+    </string>
+    <string name="completed_text">All tasks completed</string>
+    <string name="appreciation_text">Nice work!</string>
+    <string name="title_activity_third">thirdActivity</string>
+    <string name="Text_composable_text">Text composable</string>
+    <string name="Text_composable_value">Displays text and follows the recommended Material
+        Design guidelines.</string>
+    <string name="Image_composable_text">Image composable</string>
+    <string name="Image_composable_value">Creates a composable that lays out and draws
+        a given Painter class object.</string>
+    <string name="Row_composable_text">Row composable</string>
+    <string name="Row_composable_value">A layout composable that places its children
+        in a horizontal sequence.</string>
+    <string name="Column_composable_text">Column composable</string>
+    <string name="Column_composable_value">A layout composable that places its children
+        in a vertical sequence.</string>
+    <string name="title_activity_fourth">fourthActivity</string>
+    <string name="title_activity_fifth">fifthActivity</string>
+    <string name="title_activity_sixth">SixthActivity</string>
+</resources>
